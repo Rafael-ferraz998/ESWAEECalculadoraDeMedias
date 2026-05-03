@@ -1,0 +1,11 @@
+C:\Users\Rafael\Desktop\Calculadora de médias\OOPFoundation\bin\Debug\net8.0-windows\ESWAEECalculadoraDeMedias.deps.json
+C:\Users\Rafael\Desktop\Calculadora de médias\OOPFoundation\bin\Debug\net8.0-windows\ESWAEECalculadoraDeMedias.dll
+C:\Users\Rafael\Desktop\Calculadora de médias\OOPFoundation\bin\Debug\net8.0-windows\ESWAEECalculadoraDeMedias.pdb
+C:\Users\Rafael\Desktop\Calculadora de médias\OOPFoundation\obj\Debug\net8.0-windows\ESWAEECalculadoraDeMedias.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael\Desktop\Calculadora de médias\OOPFoundation\obj\Debug\net8.0-windows\ESWAEECalculadoraDeMedias.AssemblyInfoInputs.cache
+C:\Users\Rafael\Desktop\Calculadora de médias\OOPFoundation\obj\Debug\net8.0-windows\ESWAEECalculadoraDeMedias.AssemblyInfo.cs
+C:\Users\Rafael\Desktop\Calculadora de médias\OOPFoundation\obj\Debug\net8.0-windows\ESWAEECalculadoraDeMedias.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\Desktop\Calculadora de médias\OOPFoundation\obj\Debug\net8.0-windows\ESWAEECalculadoraDeMedias.dll
+C:\Users\Rafael\Desktop\Calculadora de médias\OOPFoundation\obj\Debug\net8.0-windows\refint\ESWAEECalculadoraDeMedias.dll
+C:\Users\Rafael\Desktop\Calculadora de médias\OOPFoundation\obj\Debug\net8.0-windows\ESWAEECalculadoraDeMedias.pdb
+C:\Users\Rafael\Desktop\Calculadora de médias\OOPFoundation\obj\Debug\net8.0-windows\ref\ESWAEECalculadoraDeMedias.dll

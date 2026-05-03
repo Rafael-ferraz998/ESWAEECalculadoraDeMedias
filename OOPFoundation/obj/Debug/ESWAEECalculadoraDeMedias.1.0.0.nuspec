@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>ESWAEECalculadoraDeMedias</id>
+    <version>1.0.0</version>
+    <authors>SuaNome,Eduardo,Jhuan</authors>
+    <description>Biblioteca de classes para cálculo de médias semestral e final de alunos. Projeto ESWA - Atividade II.</description>
+    <tags>media calculo aluno eswa oop</tags>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net8.0-windows7.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\Rafael\Desktop\Calculadora de médias\OOPFoundation\bin\Debug\net8.0-windows\ESWAEECalculadoraDeMedias.dll" target="lib\net8.0-windows7.0\ESWAEECalculadoraDeMedias.dll" />
+  </files>
+</package>
