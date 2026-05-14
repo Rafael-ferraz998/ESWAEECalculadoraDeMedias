@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "CalculadoraDeMediasEE/1.0.0": {
+        "dependencies": {
+          "ESWAEECalculadoraDeMedias": "1.0.0"
+        },
+        "runtime": {
+          "CalculadoraDeMediasEE.dll": {}
+        }
+      },
+      "ESWAEECalculadoraDeMedias/1.0.0": {
+        "runtime": {
+          "ESWAEECalculadoraDeMedias.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CalculadoraDeMediasEE/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ESWAEECalculadoraDeMedias/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

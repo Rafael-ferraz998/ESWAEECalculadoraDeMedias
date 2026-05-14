@@ -1,3 +1,5 @@
 <Solution>
   <Project Path="OOPFoundation/ESWAEECalculadoraDeMedias.csproj" />
+  <Project Path="CalculadoraDeMediasEE/CalculadoraDeMediasEE.csproj" />
+  <Project Path="CalculadoraDeMediasEE.Tests/CalculadoraDeMediasEE.Tests.csproj" />
 </Solution>

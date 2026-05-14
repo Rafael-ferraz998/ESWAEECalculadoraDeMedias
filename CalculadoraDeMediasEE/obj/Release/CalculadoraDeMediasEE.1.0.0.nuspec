@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>CalculadoraDeMediasEE</id>
+    <version>1.0.0</version>
+    <authors>CalculadoraDeMediasEE</authors>
+    <description>Package Description</description>
+    <repository type="git" commit="d68f666391f8da0caf3535c53604455af11255e6" />
+    <dependencies>
+      <group targetFramework="net8.0-windows7.0">
+        <dependency id="ESWAEECalculadoraDeMedias" version="1.0.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net8.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WindowsForms" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="C:\Users\Rafael\Documents\GitHub\ESWAEECalculadoraDeMedias\CalculadoraDeMediasEE\bin\Release\net8.0-windows\CalculadoraDeMediasEE.runtimeconfig.json" target="lib\net8.0-windows7.0\CalculadoraDeMediasEE.runtimeconfig.json" />
+    <file src="C:\Users\Rafael\Documents\GitHub\ESWAEECalculadoraDeMedias\CalculadoraDeMediasEE\bin\Release\net8.0-windows\CalculadoraDeMediasEE.dll" target="lib\net8.0-windows7.0\CalculadoraDeMediasEE.dll" />
+  </files>
+</package>

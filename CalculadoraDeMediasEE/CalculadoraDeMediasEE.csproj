@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <AssemblyName>CalculadoraDeMediasEE</AssemblyName>
+    <RootNamespace>CalculadoraDeMediasEE</RootNamespace>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <!-- Referência à biblioteca OOPFoundation -->
+  <ItemGroup>
+    <ProjectReference Include="..\OOPFoundation\ESWAEECalculadoraDeMedias.csproj" />
+  </ItemGroup>
+
+</Project>

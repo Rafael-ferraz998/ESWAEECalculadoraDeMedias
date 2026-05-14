@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Rafael\\Desktop\\Calculadora de médias\\OOPFoundation\\ESWAEECalculadoraDeMedias.csproj": {}
+    "C:\\Users\\Rafael\\Documents\\GitHub\\ESWAEECalculadoraDeMedias\\OOPFoundation\\ESWAEECalculadoraDeMedias.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Rafael\\Desktop\\Calculadora de médias\\OOPFoundation\\ESWAEECalculadoraDeMedias.csproj": {
+    "C:\\Users\\Rafael\\Documents\\GitHub\\ESWAEECalculadoraDeMedias\\OOPFoundation\\ESWAEECalculadoraDeMedias.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Rafael\\Desktop\\Calculadora de médias\\OOPFoundation\\ESWAEECalculadoraDeMedias.csproj",
+        "projectUniqueName": "C:\\Users\\Rafael\\Documents\\GitHub\\ESWAEECalculadoraDeMedias\\OOPFoundation\\ESWAEECalculadoraDeMedias.csproj",
         "projectName": "ESWAEECalculadoraDeMedias",
-        "projectPath": "C:\\Users\\Rafael\\Desktop\\Calculadora de médias\\OOPFoundation\\ESWAEECalculadoraDeMedias.csproj",
+        "projectPath": "C:\\Users\\Rafael\\Documents\\GitHub\\ESWAEECalculadoraDeMedias\\OOPFoundation\\ESWAEECalculadoraDeMedias.csproj",
         "packagesPath": "C:\\Users\\Rafael\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Rafael\\Desktop\\Calculadora de médias\\OOPFoundation\\obj\\",
+        "outputPath": "C:\\Users\\Rafael\\Documents\\GitHub\\ESWAEECalculadoraDeMedias\\OOPFoundation\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Rafael\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -25,8 +25,7 @@
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net8.0-windows": {
-            "framework": "net8.0-windows7.0",
+          "net8.0-windows7.0": {
             "targetAlias": "net8.0-windows",
             "projectReferences": {}
           }
@@ -44,8 +43,7 @@
         "SdkAnalysisLevel": "10.0.200"
       },
       "frameworks": {
-        "net8.0-windows": {
-          "framework": "net8.0-windows7.0",
+        "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
           "imports": [
             "net461",

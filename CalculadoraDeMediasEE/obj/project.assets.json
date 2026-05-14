@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net8.0-windows7.0": {}
+    "net8.0-windows7.0": {
+      "ESWAEECalculadoraDeMedias/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/ESWAEECalculadoraDeMedias.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ESWAEECalculadoraDeMedias.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "ESWAEECalculadoraDeMedias/1.0.0": {
+      "type": "project",
+      "path": "../OOPFoundation/ESWAEECalculadoraDeMedias.csproj",
+      "msbuildProject": "../OOPFoundation/ESWAEECalculadoraDeMedias.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net8.0-windows7.0": []
+    "net8.0-windows7.0": [
+      "ESWAEECalculadoraDeMedias >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\Rafael\\.nuget\\packages\\": {}
@@ -13,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Rafael\\Documents\\GitHub\\ESWAEECalculadoraDeMedias\\OOPFoundation\\ESWAEECalculadoraDeMedias.csproj",
-      "projectName": "ESWAEECalculadoraDeMedias",
-      "projectPath": "C:\\Users\\Rafael\\Documents\\GitHub\\ESWAEECalculadoraDeMedias\\OOPFoundation\\ESWAEECalculadoraDeMedias.csproj",
+      "projectUniqueName": "C:\\Users\\Rafael\\Documents\\GitHub\\ESWAEECalculadoraDeMedias\\CalculadoraDeMediasEE\\CalculadoraDeMediasEE.csproj",
+      "projectName": "CalculadoraDeMediasEE",
+      "projectPath": "C:\\Users\\Rafael\\Documents\\GitHub\\ESWAEECalculadoraDeMedias\\CalculadoraDeMediasEE\\CalculadoraDeMediasEE.csproj",
       "packagesPath": "C:\\Users\\Rafael\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Rafael\\Documents\\GitHub\\ESWAEECalculadoraDeMedias\\OOPFoundation\\obj\\",
+      "outputPath": "C:\\Users\\Rafael\\Documents\\GitHub\\ESWAEECalculadoraDeMedias\\CalculadoraDeMediasEE\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Rafael\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -33,7 +52,11 @@
       "frameworks": {
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Rafael\\Documents\\GitHub\\ESWAEECalculadoraDeMedias\\OOPFoundation\\ESWAEECalculadoraDeMedias.csproj": {
+              "projectPath": "C:\\Users\\Rafael\\Documents\\GitHub\\ESWAEECalculadoraDeMedias\\OOPFoundation\\ESWAEECalculadoraDeMedias.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
@@ -65,6 +88,9 @@
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
           }
         },
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.203/PortableRuntimeIdentifierGraph.json"
