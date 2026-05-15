@@ -10,14 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("SuaNome;Eduardo;Jhuan")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("CalculadoraDeMediasEE")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
-[assembly: System.Reflection.AssemblyDescriptionAttribute(("Biblioteca de classes para cálculo de médias semestral e final de alunos. Projeto" +
-    " ESWA - Atividade II."))]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d0be5dd5c11603cb661d2edaf383b23878370959")]
-[assembly: System.Reflection.AssemblyProductAttribute("ESWAEECalculadoraDeMedias")]
-[assembly: System.Reflection.AssemblyTitleAttribute("ESWAEECalculadoraDeMedias")]
+[assembly: System.Reflection.AssemblyProductAttribute("CalculadoraDeMediasEE")]
+[assembly: System.Reflection.AssemblyTitleAttribute("CalculadoraDeMediasEE")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 [assembly: System.Runtime.Versioning.TargetPlatformAttribute("Windows7.0")]
 [assembly: System.Runtime.Versioning.SupportedOSPlatformAttribute("Windows7.0")]
